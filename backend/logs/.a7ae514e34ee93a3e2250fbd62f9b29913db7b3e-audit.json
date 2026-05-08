@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\S YASWANTHREDDY\\Downloads\\CRM-main\\CRM-main\\backend\\logs\\.a7ae514e34ee93a3e2250fbd62f9b29913db7b3e-audit.json",
+    "files": [
+        {
+            "date": 1777258094512,
+            "name": "C:\\Users\\S YASWANTHREDDY\\Downloads\\CRM-main\\CRM-main\\backend\\logs\\combined-2026-04-27.log",
+            "hash": "84050a4172494cefdffb1a2e4dca3b24c7a3d14cb9523bc0d24a4185c2c96883"
+        },
+        {
+            "date": 1778242279804,
+            "name": "C:\\Users\\S YASWANTHREDDY\\Downloads\\CRM-main\\CRM-main\\backend\\logs\\combined-2026-05-08.log",
+            "hash": "db92bec9e4c4ee9a8831ea981460453d4e5e27f75745f4a90b9cf3b1f4b22268"
+        }
+    ],
+    "hashType": "sha256"
+}
